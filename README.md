@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avinash2880
 - 📫 I am currently pursuing BTech in CSE at SRM institute of science and technology , kattankulathur.
-- ✨ I am currently in my 2nd year of B.Tech.
+- ✨ I am currently in my 4th year of B.Tech.
 - ✨ I have a specialization in computer networking and also learning web development and machine learning etc.
 - 📫 I am part of college's student run organisations like Aaruush etc.
 - 💞️ I am interested in Web Development , Data Scientist , Networking Engineer etc. ...
